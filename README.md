@@ -13,7 +13,7 @@ version : [![](https://jitpack.io/v/ahmedgomaa97/AGCore.svg)](https://jitpack.io
 			maven { url 'https://jitpack.io' }
 		}
 	}
-  
-  dependencies {
-	        implementation 'com.github.ahmedgomaa97:AGCore:version'
+	
+	dependencies {
+	        implementation 'com.github.ahmedgomaa97:AGCore:Tag'
 	}
